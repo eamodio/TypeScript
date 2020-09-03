@@ -39555,3 +39555,5 @@ namespace ts {
     }
 
 }
+
+// Hello world
